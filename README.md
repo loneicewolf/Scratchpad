@@ -1,5 +1,34 @@
-# Scratchpad
-A Scratchpad 
+
+<div align="center">
+  <h1>$\textcolor{#eb3342}{\textsf{
+    Hello! This is just a scratchpad
+    }}$</h1>
+  
+  <h1>$\textcolor{#02fd2f}{\textsf{
+    For Myself
+    }}$</h1>
+</div>
+
+
+$\textcolor{#FF000B}{\textsf{
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+<mi>&#x3B2;</mi>
+</math>}}$
+
+## how to do it:
+```
+This
+- `$\textcolor{#FF000B}{\textsf{ ABC }}$`
+
+
+Or This
+$\textcolor{#FF000B}{\textsf{
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+<mi>&#x3B2;</mi>
+</math>}}$
+
+
+```
 
 
 

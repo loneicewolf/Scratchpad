@@ -9,10 +9,13 @@ Quantum Mechanics, Programming, etc
 
 ## $r_{s} = \frac{2GM}{c^2}$
 
-Where:
-- $r_{s}$  - The Radii.
-- $2GM$ - G = constant, M = obj.s.mass.
-- $c^2$  -  is the speed of light.
+## Where:
+
+|Math|Meaning||||
+|---|---|---|---|---|
+| $c^2$   | The Radii.  |   |   |   |
+| $2GM$ | G = constant, M = obj.s.mass.  |   |   |   |
+| $r_{s}$  |  Is the speed of light. |   |   |   |
 - ---
 
 <div align="center">

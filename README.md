@@ -2,6 +2,13 @@
 A Scratchpad 
 
 
+
+```md
+# Test
+# Quantum Mechanics, Programming, etc
+```
+
+
 |a|b|c|
 | -|-|-|
 |$\alpha$|`A`|`A`|
@@ -9,12 +16,8 @@ A Scratchpad
 |$\gamma$|`A`|`A`|
 |$\theta$|`A`|`A`|
 |$\zeta$|`A`|`A`|
+![image](https://github.com/loneicewolf/Scratchpad/assets/68499986/e7436567-0cd9-41f9-8fce-5896dd92ff43)
 
-
-```
-Test
-Quantum Mechanics, Programming, etc
-```
 <div align="center">
   <h1>ABC</h1>
 <details>

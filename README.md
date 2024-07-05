@@ -2,13 +2,18 @@
 A Scratchpad 
 
 ```
-Quantum Mechanics
-- 2 or more photon/light(whatever) Beams,
-  - entanglement 
-  - 
-
+Test
+Quantum Mechanics, Programming, etc
 ```
----
+
+
+## $r_{s} = \frac{2GM}{c^2}$
+
+Where:
+- $r_{s}$  - The Radii.
+- $2GM$ - G = constant, M = obj.s.mass.
+- $c^2$  -  is the speed of light.
+- ---
 
 <div align="center">
   <h1>ABC</h1>

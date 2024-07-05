@@ -55,4 +55,24 @@ Where:
 ```
 
 
+# References
+## Internal References
+- https://gist.github.com/loneicewolf/33be8db4af2fffbbb2ae76329202dd82
+- https://gist.github.com/loneicewolf/ffba198ff6dc8efb96def3d7179606d0
+- https://gist.github.com/loneicewolf/c16ff1f3ec92f83852440269f80cd785
+
+## External References
+
+
+
+# LEGEND
+footnotes
+<sub>
+__Hello World!__
+</sub>
+
+
+
+
 ---
+

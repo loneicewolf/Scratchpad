@@ -5,7 +5,24 @@ A Scratchpad
 Test
 Quantum Mechanics, Programming, etc
 ```
+<div align="center">
+  <h1>ABC</h1>
+<details>
+<summary> [d]Expand </summary>
+  
+## $\dfrac{df}{dx}$
+## $\dfrac{df}{dy}$
+  
+</details>
+<details>
+  
+<summary> [∂] Expand </summary>
+  
+## $\dfrac{∂f}{∂x}$
+## $\dfrac{∂f}{∂y}$
+</details>
 
+</div>
 
 ## $r_{s} = \frac{2GM}{c^2}$
 

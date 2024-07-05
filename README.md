@@ -1,6 +1,16 @@
 # Scratchpad
 A Scratchpad 
 
+
+|a|b|c|
+| -|-|-|
+|$\alpha$|`A`|`A`|
+|$\beta$|`A`|`A`|
+|$\gamma$|`A`|`A`|
+|$\theta$|`A`|`A`|
+|$\zeta$|`A`|`A`|
+
+
 ```
 Test
 Quantum Mechanics, Programming, etc

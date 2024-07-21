@@ -138,3 +138,25 @@ __Hello World!__
 
 ---
 
+
+
+```
+
+##############################################################################
+Variables:
+<details><summary> $DROPDOWN_TITLE </summary>
+#	$DROPDOWN_CONTENTS
+#	</details>
+
+
+<details><summary> <CODE>abc</CODE> </summary>
+  abc
+  def
+</details>
+
+<details><summary> $DROPDOWN_TITLE </summary>
+  abc
+  def
+</details>
+##############################################################################
+```
